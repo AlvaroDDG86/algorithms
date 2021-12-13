@@ -1,0 +1,16 @@
+{
+  "name": "migratoryBirds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "migratoryBirds.js",
+  "scripts": {
+    "test": "jest",
+    "test:w": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}

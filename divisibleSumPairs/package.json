@@ -1,0 +1,15 @@
+{
+  "name": "divisiblesumpairs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "divisibleSumPairs.js",
+  "scripts": {
+    "test": "jest",
+    "test:w": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
