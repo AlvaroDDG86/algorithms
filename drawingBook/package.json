@@ -1,0 +1,16 @@
+{
+  "name": "drawingBook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "drawingBook.js",
+  "scripts": {
+    "test": "jest",
+    "test:w": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
